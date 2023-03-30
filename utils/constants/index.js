@@ -1,4 +1,4 @@
-const tokenAbi = require("./FelinaTokenAbi.json")
+const tokenAbi = require("./felinaTokenAbi.json")
 const burnerAbi = require("./felinaBurnerAbi.json")
 const tokenContractAddresses = require("./felinaTokenContractAddresses.json")
 const burnerContractAddresses = require("./felinaBurnerContractAddresses.json")
