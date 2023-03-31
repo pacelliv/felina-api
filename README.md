@@ -6,7 +6,7 @@
 
 ### ✨✨ Check the smart contracts [here](https://github.com/pacelliv/felina-erc20-token)
 
-### ⚡️⚡️ Frontend repo [here](hhttps://github.com/pacelliv/felina-hub)
+### ⚡️⚡️ Frontend repo [here](https://github.com/pacelliv/felina-hub)
 
 -   This API contains the logic to query the Ethereum Blockchain for data related to FEL token.
 -   Logic to create and send transactions of FEL tokens.
